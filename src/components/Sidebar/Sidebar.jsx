@@ -1,4 +1,4 @@
-import Main from './Main/Main.jsx'
+import Main from './Main/Main'
 import React, { useContext, useState } from 'react'
 import './Sidebar.css'
 import  {assets} from '../../assets/assets'
