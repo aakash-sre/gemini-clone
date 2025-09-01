@@ -57,7 +57,7 @@ import  {
 }  from "@google/generative-ai"
  import fs from "fs";
  
-const MODEL_NAME = "gemini-2.5-pro";
+const MODEL_NAME = "gemini-1.5-pro";
 const API_KEY = "AIzaSyBdrSRzJ_0gol1HHM9PDta-fr2kH9VM7ZE";
 
 
